@@ -1,4 +1,4 @@
-### Hi_World(); 👋
+### Hi_World();
 
 🌱 I’m currently learning C#
 
