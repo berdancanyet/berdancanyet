@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi_World(); 👋
+
+🌱 I’m currently learning C#
 
 <!--
 **berdancanyet/berdancanyet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
