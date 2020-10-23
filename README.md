@@ -3,6 +3,7 @@ Skills: LUA / JAVA / PYTHON / C++ / C# / HTML / CSS
 
 🌱 I’m currently learning C#
 
+### Social_Media();
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='25'>](https://www.instagram.com/berdancan96/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25'>](https://twitter.com/berdancan96)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='25'>](https://kgb2d.xyz)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=berdancanyet)](https://github.com/ryo-ma/github-profile-trophy)
