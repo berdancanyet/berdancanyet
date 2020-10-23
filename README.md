@@ -1,4 +1,5 @@
 ### Hi_World();
+Skills: LUA / JAVA / PYTHON / C++ / C# / HTML / CSS
 
 🌱 I’m currently learning C#
 
