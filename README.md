@@ -1,5 +1,5 @@
 ### Hi_World();
-Skills: LUA / JAVA
+Skills: LUA, JAVA, C++
 
 - 🌱 I’m currently learning C#
 - 🏠 Based in Bursa/Turkey
