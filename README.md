@@ -1,10 +1,10 @@
 ### Hi_World();
-Skills: LUA, JAVA, C++
+Skills: LUA, JAVA, Python, C++
 
 - 🌱 I’m currently learning C#
 - 🏠 Based in Bursa/Turkey
 ### Social_Media();
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='25'>](https://www.instagram.com/berdancan96/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25'>](https://twitter.com/berdancan96)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='25'>](https://kgb2d.xyz)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='16'>](https://www.instagram.com/berdancan96/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='16'>](https://twitter.com/berdancan96)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='16'>](https://kgb2d.xyz)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berdancanyet)](https://github.com/anuraghazra/github-readme-stats)
 
