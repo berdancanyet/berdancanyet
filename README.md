@@ -2,7 +2,7 @@
 Skills: LUA, JAVA, Python, C++
 
 - 🌱 I’m currently learning C#
-- 🏠 Based in Bursa/Turkey
+- 🏠 Based in Bursa, Turkey
 ### Social_Media();
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='16'>](https://www.instagram.com/berdancan96/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='16'>](https://twitter.com/berdancan96)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='16'>](https://kgb2d.xyz)  
 
