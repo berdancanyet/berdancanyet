@@ -1,7 +1,7 @@
 ### Hi_World();
 
 - 🌱 Working with LUA, Java, Python and C++
-- 🏠 Based in Bursa, Turkey
+- 🏠 Based in Bursa, Turkiye
 - 📫 You can contact me on Discord: BcY#6553
 - ⚡ Fun Fact: Turkish coffee is everything.
 
