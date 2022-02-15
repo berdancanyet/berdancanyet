@@ -1,8 +1,9 @@
 ### Hi_World();
-Skills: LUA, JAVA, Python, C++
 
-- 🌱 I’m currently learning C#
+- 🌱 Working with LUA, Java, Python and C++
 - 🏠 Based in Bursa, Turkey
+- 📫 You can contact me on Discord: BcY#6553
+- ⚡ Fun Fact: Turkish coffee is everything.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berdancanyet)](https://github.com/anuraghazra/github-readme-stats)
 
