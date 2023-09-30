@@ -1,8 +1,8 @@
 ### Hi_World();
 
-- 🌱 Working with LUA, Java, Python and C++
+- 🌱 Co-Founder & CEO of Onebuck
 - 🏠 Based in Bursa, Turkiye
-- 📫 You can contact me on Discord: BcY#6553
+- 📫 You can contact me on Discord: .bcy
 - ⚡ Fun Fact: Turkish coffee is everything.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berdancanyet)](https://github.com/anuraghazra/github-readme-stats)
