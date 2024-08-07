@@ -1,8 +1,7 @@
 ### Hi_World();
 
 - 🌱 Co-Founder & CEO of Onebuck
-- 🏠 Based in Bursa, Turkiye
-- 📫 You can contact me on Discord: .bcy
+- 🏠 Based in Türkiye
 - ⚡ Fun Fact: Turkish coffee is everything.
 <!--
 **berdancanyet/berdancanyet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
